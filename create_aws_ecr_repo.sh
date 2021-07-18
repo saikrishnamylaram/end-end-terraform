@@ -1,9 +1,7 @@
-# RUN me where kubectl is available,& make sure to replace account,region etc
-#
-ACCOUNT=336466435446
-REGION=ap-south-1
+ACCOUNT=831103659601
+REGION=us-east-2
 SECRET_NAME=${REGION}-ecr-registry
-EMAIL=ybmadhu404@gmail.com
+EMAIL=sneharao983@gmail.com
 
 #
 # Fetch token (which will expire in 12 hours)
