@@ -1,7 +1,7 @@
 ACCOUNT=831103659601
 REGION=us-east-2
 SECRET_NAME=${REGION}-ecr-registry
-EMAIL=sneharao983@gmail.com
+EMAIL=mylaramsaikrishna@gmail.com
 
 #
 # Fetch token (which will expire in 12 hours)
