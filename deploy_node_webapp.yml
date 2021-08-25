@@ -28,11 +28,11 @@
               spec:
                 containers:
                 - name: springapp
-                  image: 831103659601.dkr.ecr.us-east-2.amazonaws.com/nodeapp
+                  image: 747949668188.dkr.ecr.ap-south-1.amazonaws.com/nodeapp
                   ports:
                   - containerPort: 8080
                 imagePullSecrets:
-                - name: us-east-2-ecr-registry
+                - name: ap-south-1-ecr-registry
 
     - name: Create a Service to access spring app
       k8s:
