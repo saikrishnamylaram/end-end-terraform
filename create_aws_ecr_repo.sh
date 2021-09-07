@@ -1,5 +1,5 @@
-ACCOUNT=747949668188
-REGION=ap-south-1
+ACCOUNT=831103659601
+REGION=us-east-2
 SECRET_NAME=${REGION}-ecr-registry
 EMAIL=saikrishna01234567@gmail.com
 
